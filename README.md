@@ -17,7 +17,7 @@ Learnify is an interactive learning platform that simplifies complex concepts fo
 
 - <ins>User Registration and Login:</ins> Users can create an account and log in to access personalized features.
 - <ins>Concept Search:</ins> Users can search for specific concepts they want to learn and receive explanations tailored for a 10-year-old comprehension level.
-- <ins>Multilingual Support:</ins> StudyPedia supports multiple languages, allowing users to learn in their preferred language.
+- <ins>Multilingual Support:</ins> Learnify supports multiple languages, allowing users to learn in their preferred language.
 - <ins>Concept Connections and Differences:</ins> Users can explore the connections and differences between different concepts in a clear and concise manner.
 - <ins>Search History:</ins> Users' search history is stored, allowing them to revisit previous searches.
 
@@ -44,7 +44,7 @@ Learnify is an interactive learning platform that simplifies complex concepts fo
 
 ## Contributing
 
-Contributions are welcome! If you'd like to contribute to StudyPedia, please follow these steps:
+Contributions are welcome! If you'd like to contribute to Learnify, please follow these steps:
 
 1. Fork the repository.
 2. Create a new branch for your feature or bug fix.
