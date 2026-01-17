@@ -1,7 +1,7 @@
-# StudyPedia_Complete
-# StudyPedia
+# Learnify_Complete
+# Learnify
 
-StudyPedia is an interactive learning platform that simplifies complex concepts for users. It provides explanations using natural language processing and generates user-friendly content with examples and emojis. Users can explore various subjects, find differences and connections, and access their search history, fostering effective learning in multiple languages.
+Learnify is an interactive learning platform that simplifies complex concepts for users. It provides explanations using natural language processing and generates user-friendly content with examples and emojis. Users can explore various subjects, find differences and connections, and access their search history, fostering effective learning in multiple languages.
 
 ## Screenshots of the Project
 
@@ -36,8 +36,8 @@ Full Explanation of the project: https://drive.google.com/file/d/1Pkjo3HMMJAJ39c
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/StudyPedia.git`
-2. Navigate to the project directory: `cd StudyPedia`
+1. Clone the repository: `git clone https://github.com/your-username/Learnify.git`
+2. Navigate to the project directory: `cd Learnify`
 3. Create a virtual environment: `python -m venv venv`
 4. Activate the virtual environment:
    - On Windows: `venv\Scripts\activate`
@@ -62,4 +62,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Acknowledgements
 
-StudyPedia makes use of the OpenAI Key. Special thanks to OpenAI for providing access to their powerful language model.
+Learnify makes use of the OpenAI Key. Special thanks to OpenAI for providing access to their powerful language model.
