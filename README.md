@@ -5,7 +5,7 @@ Learnify is an interactive learning platform that simplifies complex concepts fo
 
 ## Screenshots of the Project
 
-![1](https://github.com/Harshil-Kumar/StudyPedia_Complete/assets/114159242/44ac236c-bbe6-437f-9222-867d19235d68)
+![1](https://github.com/ritikar1/Learnify/blob/main/templates/Assets/Sign%20Up.jpeg)
 ![2](https://github.com/Harshil-Kumar/StudyPedia_Complete/assets/114159242/245f6f32-6317-4f8c-a0f4-065a97c21074)
 ![3](https://github.com/Harshil-Kumar/StudyPedia_Complete/assets/114159242/25fab5c9-ff22-487d-9f64-46e4645ca8df)
 ![4](https://github.com/Harshil-Kumar/StudyPedia_Complete/assets/114159242/cbaa251a-fa48-4fbe-a8d2-447ee8b89f75)
